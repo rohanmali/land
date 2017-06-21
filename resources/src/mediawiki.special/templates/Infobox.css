@@ -1,0 +1,34 @@
+.infobox {
+ float: right;
+ clear: right;
+ margin-bottom: 0.5em;
+ margin-left: 1em;
+ padding: 0.2em;
+ border: 1px solid #a2a9b1;
+ background: #f8f9fa;
+ color: black;
+}
+
+.infobox td,
+.infobox th {
+ vertical-align: top;
+}
+
+.infobox caption {
+ margin-left: inherit;
+ font-size: larger;
+}
+
+.infobox.bordered {
+ border-collapse: collapse;
+}
+
+.infobox.bordered td,
+.infobox.bordered th {
+ border: 1px solid #a2a9b1;
+}
+
+.infobox.bordered .borderless td,
+.infobox.bordered .borderless th {
+ border: 0;
+}
