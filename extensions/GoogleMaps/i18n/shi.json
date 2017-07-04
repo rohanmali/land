@@ -1,0 +1,19 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dalinanir"
+        ]
+    },
+    "googlemaps-small": "Amzyan",
+    "googlemaps-no-zoom-control": "Uhu",
+    "googlemaps-yes": "Iyyih",
+    "googlemaps-no": "Uhu",
+    "googlemaps-search-preface": "Klikki f lkarṭa bac ad tzaydt tanqqiṭ niɣ ad tmmattit s yan iɣrm yaḍn, tamurt, tansa , niɣd agmmaḍ",
+    "googlemaps-geocode-preface": "Klikki f lkarṭa bac an tzaydt tanqqiṭ niɣ ad tmmattit s yan iɣrm yaḍn, tamurt, tansa , niɣd agmmaḍ",
+    "googlemaps-no-search-preface": "Klikki f  lkarṭa bac an tzaydt tanqqiṭ.",
+    "googlemaps-search": "Cabba (Sigl)",
+    "googlemaps-clear-search": "Sɣus ma dak fan icnubcn",
+    "googlemaps-meters": "Mitruwat",
+    "googlemaps-editing-path": "Klikki f lkarṭa bac an tzaydt tinqqaḍ u ɣaras ad",
+    "googlemaps-save-path": "Ḥbu"
+}

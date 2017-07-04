@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "Joachim Mos"
+        ]
+    },
+    "googlemaps-map": "Koort",
+    "googlemaps-yes": "Jo",
+    "googlemaps-no": "Nee",
+    "googlemaps-search": "Söken",
+    "googlemaps-meters": "Meters",
+    "googlemaps-save-path": "Spiekern"
+}

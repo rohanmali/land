@@ -1,0 +1,23 @@
+{
+    "@metadata": {
+        "authors": [
+            "Fluence",
+            "Teòtlalili"
+        ]
+    },
+    "googlemaps-balloon-title": "Tōcāitl:",
+    "googlemaps-balloon-link-article": "Tzonhuiliztli inīn zāzanilhuīc (mohuelīti):",
+    "googlemaps-map": "Āmatohtli",
+    "googlemaps-zoom-control": "Nènemòwalistli",
+    "googlemaps-large": "Huēyi",
+    "googlemaps-medium": "Nepantlah",
+    "googlemaps-small": "Tepitōn",
+    "googlemaps-no-zoom-control": "Ahtlein",
+    "googlemaps-yes": "Quēmah",
+    "googlemaps-no": "Ahmo",
+    "googlemaps-search": "Titlatēmōz",
+    "googlemaps-save-path": "Ticpiyāz",
+    "googlemaps-earth": "Tlālticpac",
+    "googlemaps-moon": "Mētztli",
+    "googlemaps-mars": "Chīchīlco"
+}

@@ -1,0 +1,27 @@
+{
+    "@metadata": {
+        "authors": [
+            "Sasan700",
+            "Умар"
+        ]
+    },
+    "googlemaps-balloon-title": "Корта:",
+    "googlemaps-remove": "ДӀаяккха",
+    "googlemaps-caption": "КуьгтаӀор",
+    "googlemaps-save-point": "Ӏалаш йаь/дӀачӀагӀа",
+    "googlemaps-clip-result": "ТӀетоха карта",
+    "googlemaps-no-results": "Бехк ма биллалаш, хӀума ца карийна",
+    "googlemaps-clear-all-points": "ДӀадаха дерриге тӀадамаш",
+    "googlemaps-width": "Шоралла",
+    "googlemaps-height": "Локхалла",
+    "googlemaps-scale-control": "Шкала",
+    "googlemaps-no-zoom-control": "Яц",
+    "googlemaps-yes": "Хlаъ",
+    "googlemaps-no": "Яц",
+    "googlemaps-search": "Лаха",
+    "googlemaps-clear-search": "ДӀаяха карийнарш",
+    "googlemaps-edit-path": "ТӀетоха тӀадамаш",
+    "googlemaps-line-width": "Шоралла",
+    "googlemaps-kml-include-link": "Картан тӀетоха",
+    "googlemaps-kml-loading": "чуйолуш…"
+}

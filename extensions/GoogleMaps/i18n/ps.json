@@ -1,0 +1,37 @@
+{
+    "@metadata": {
+        "authors": [
+            "Ahmed-Najib-Biabani-Ibrahimkhel"
+        ]
+    },
+    "googlemaps-balloon-title": "سرليک:",
+    "googlemaps-remove": "غورځول",
+    "googlemaps-trace-area": "پل په پل يوې سيمې پسې تلل",
+    "googlemaps-load-map": "نخشه برسېرول",
+    "googlemaps-clip-result": "يوه نخشه ورګډول",
+    "googlemaps-no-results": "اوبښۍ، هېڅ کومه پايله نشته",
+    "googlemaps-searching": "پلټنې کې دی...",
+    "googlemaps-map": "کښېده",
+    "googlemaps-are-you-sure": "آيا تاسې ډاډه ياست؟",
+    "googlemaps-selector-control": "نخشه/سپوږمکۍ ټاکونکی",
+    "googlemaps-zoom-control": "ګرځښت",
+    "googlemaps-large": "لوی",
+    "googlemaps-medium": "منځوی",
+    "googlemaps-small": "وړوکی",
+    "googlemaps-no-zoom-control": "هېڅ",
+    "googlemaps-yes": "هو",
+    "googlemaps-no": "نه",
+    "googlemaps-search": "پلټل",
+    "googlemaps-meters": "متره",
+    "googlemaps-miles": "ميل",
+    "googlemaps-save-path": "خوندي کول",
+    "googlemaps-color-path": "رنګ بدلول",
+    "googlemaps-fill-color": "رنګ ډکول",
+    "googlemaps-make-map": "يوه نخشه جوړول",
+    "googlemaps-hide-map": "نخشه پټول",
+    "googlemaps-kml-include-link": "نحشې ته ورګډول",
+    "googlemaps-kml-loading": "برسېرېدنې کې دی...",
+    "googlemaps-earth": "زمکه",
+    "googlemaps-moon": "سپوږمۍ",
+    "googlemaps-mars": "مريخ"
+}

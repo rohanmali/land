@@ -1,0 +1,21 @@
+{
+    "@metadata": {
+        "authors": [
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "googlemaps-balloon-title": "عنوان:",
+    "googlemaps-remove": "حذف کریں",
+    "googlemaps-width": "چوڑائی",
+    "googlemaps-height": "اونچائی",
+    "googlemaps-scale-control": "پیمانے",
+    "googlemaps-overview-control": "برجوں کا جائزہ:",
+    "googlemaps-zoom-control": "نیوی گیشن",
+    "googlemaps-large": "بڑی",
+    "googlemaps-medium": "درمیانے",
+    "googlemaps-small": "چھوٹا سا",
+    "googlemaps-no-zoom-control": "کوئی بھی نہیں",
+    "googlemaps-yes": "جی ہاں",
+    "googlemaps-no": "نہیں",
+    "googlemaps-search": "تلاش"
+}

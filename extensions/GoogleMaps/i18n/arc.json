@@ -1,0 +1,31 @@
+{
+    "@metadata": {
+        "authors": [
+            "Basharh"
+        ]
+    },
+    "googlemaps-balloon-title": "ܟܘܢܝܐ:",
+    "googlemaps-searching": "ܒܨܝܐ...",
+    "googlemaps-map": "ܨܘܪܬ ܥܠܡܐ",
+    "googlemaps-clear-all-points": "ܡܫܝ ܟܠ ܢܘܩܙ̈ܐ",
+    "googlemaps-width": "ܦܬܘܐ",
+    "googlemaps-height": "ܐܘܪܟܐ",
+    "googlemaps-zoom-control": "ܐܠܦܪܘܬܐ",
+    "googlemaps-large": "ܪܒܐ",
+    "googlemaps-medium": "ܡܨܥܝܐ",
+    "googlemaps-small": "ܙܥܘܪܐ",
+    "googlemaps-no-zoom-control": "ܠܐ ܡܕܡ",
+    "googlemaps-yes": "ܐܝܢ",
+    "googlemaps-no": "ܠܐ",
+    "googlemaps-search": "ܒܨܝ",
+    "googlemaps-clear-search": "ܡܫܝ ܦܠܛ̈ܐ ܕܒܨܝܐ",
+    "googlemaps-miles": "ܡܝܠ̈ܐ",
+    "googlemaps-save-path": "ܠܒܘܟ",
+    "googlemaps-edit-path": "ܐܘܣܦ ܢܘܩܙ̈ܐ",
+    "googlemaps-show-path": "ܚܘܝ ܢܘܩܙ̈ܐ",
+    "googlemaps-color-path": "ܫܚܠܦ ܓܘܢܐ",
+    "googlemaps-line-width": "ܦܬܘܐ",
+    "googlemaps-back": "ܗܦܟܐ ܠܒܣܬܪܐ",
+    "googlemaps-earth": "ܐܪܥܐ",
+    "googlemaps-moon": "ܣܗܪܐ"
+}

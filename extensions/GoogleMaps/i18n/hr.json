@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Dalibor Bosits",
+            "Ex13"
+        ]
+    },
+    "googlemaps-remove": "ukloni",
+    "googlemaps-yes": "Da",
+    "googlemaps-no": "Ne",
+    "googlemaps-save-path": "Spremi",
+    "googlemaps-kml-loading": "učitavam...",
+    "googlemaps-earth": "Zemlja",
+    "googlemaps-moon": "Mjesec",
+    "googlemaps-mars": "Mars"
+}

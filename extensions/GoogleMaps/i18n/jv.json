@@ -1,0 +1,42 @@
+{
+    "@metadata": {
+        "authors": [
+            "Meursault2004"
+        ]
+    },
+    "googlemaps-balloon-title": "Irah-irahan (judhul):",
+    "googlemaps-balloon-link-article": "Pranala menyang kaca iki (opsional):",
+    "googlemaps-make-marker": "Katrangan (mark-up wiki OK):",
+    "googlemaps-remove": "ilangana",
+    "googlemaps-caption": "Informasi",
+    "googlemaps-tab-title": "Irah-irahan tab",
+    "googlemaps-tab": "Tab",
+    "googlemaps-start-path": "wiwitana sawijining dalan",
+    "googlemaps-trace-area": "runut sawijining tlatah",
+    "googlemaps-refresh-list": "Anyarana daftar",
+    "googlemaps-load-map": "Unggahna péta",
+    "googlemaps-no-results": "Nuwun sèwu, ora ana pituwas",
+    "googlemaps-searching": "golèk…",
+    "googlemaps-map": "Péta",
+    "googlemaps-are-you-sure": "Panjenengan pasti?",
+    "googlemaps-width": "Amba",
+    "googlemaps-height": "Dhuwur",
+    "googlemaps-scale-control": "Skala",
+    "googlemaps-selector-control": "Sèlèktor péta/satelit",
+    "googlemaps-zoom-control": "Navigasi",
+    "googlemaps-large": "Gedhé",
+    "googlemaps-medium": "Tengah-tengahan",
+    "googlemaps-small": "Cilik",
+    "googlemaps-no-zoom-control": "Ora ana",
+    "googlemaps-yes": "Iya",
+    "googlemaps-no": "Ora",
+    "googlemaps-search": "Golèk",
+    "googlemaps-meters": "mèter",
+    "googlemaps-miles": "mil",
+    "googlemaps-save-path": "Simpen",
+    "googlemaps-line-width": "Amba",
+    "googlemaps-kml-export": "Èkspor péta iki menyang KML",
+    "googlemaps-earth": "Bumi",
+    "googlemaps-moon": "Wulan",
+    "googlemaps-mars": "Mars"
+}

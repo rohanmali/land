@@ -1,0 +1,30 @@
+{
+    "@metadata": {
+        "authors": [
+            "Avjoska"
+        ]
+    },
+    "googlemaps-balloon-title": "Pealkiri:",
+    "googlemaps-refresh-list": "Värskenda loendit",
+    "googlemaps-no-results": "Kahjuks tulemusi ei ole",
+    "googlemaps-searching": "otsin...",
+    "googlemaps-are-you-sure": "Oled sa kindel?",
+    "googlemaps-width": "Laius",
+    "googlemaps-height": "Kõrgus",
+    "googlemaps-scale-control": "Mõõtkava",
+    "googlemaps-overview-control": "Ülevaade",
+    "googlemaps-large": "Suur",
+    "googlemaps-medium": "Keskmine",
+    "googlemaps-small": "Väike",
+    "googlemaps-yes": "Jah",
+    "googlemaps-no": "Ei",
+    "googlemaps-search": "Otsi",
+    "googlemaps-clear-search": "sulge otsingu tulemused",
+    "googlemaps-meters": "meetrit",
+    "googlemaps-miles": "miili",
+    "googlemaps-save-path": "Salvesta",
+    "googlemaps-color-path": "vaheta värvi",
+    "googlemaps-earth": "Maa",
+    "googlemaps-moon": "Kuu",
+    "googlemaps-mars": "Marss"
+}

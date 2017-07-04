@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Techman224"
+        ]
+    },
+    "googlemaps-color-path": "change colour",
+    "googlemaps-color-fill": "change fill colour",
+    "googlemaps-fill-color": "Fill colour",
+    "googlemaps-line-color": "Line colour"
+}

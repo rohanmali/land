@@ -1,0 +1,36 @@
+{
+    "@metadata": {
+        "authors": [
+            "Botuzhaleny-sodamo"
+        ]
+    },
+    "googlemaps-balloon-title": "Коняксозо:",
+    "googlemaps-remove": "нардык",
+    "googlemaps-start-path": "ушодт йан",
+    "googlemaps-refresh-list": "Одкстомтомс списканть",
+    "googlemaps-load-map": "Грузямс картанзо",
+    "googlemaps-clip-result": "Поладомс картантень",
+    "googlemaps-map": "Картазо",
+    "googlemaps-width": "Келезэ",
+    "googlemaps-height": "Сэрезэ",
+    "googlemaps-zoom-control": "Навигация",
+    "googlemaps-large": "Покш",
+    "googlemaps-small": "Вишкыне",
+    "googlemaps-yes": "Истя",
+    "googlemaps-no": "Арась",
+    "googlemaps-search": "Вешнэмс",
+    "googlemaps-meters": "метрат",
+    "googlemaps-miles": "милат",
+    "googlemaps-save-path": "Ванстомс",
+    "googlemaps-color-path": "полавтомс тюсонть",
+    "googlemaps-opacity": "Пачк неявомазо",
+    "googlemaps-line-width": "Келезэ",
+    "googlemaps-make-map": "шкак карта",
+    "googlemaps-hide-map": "кекшик картанть",
+    "googlemaps-back": "мекев",
+    "googlemaps-kml-include-link": "поладомс картантень",
+    "googlemaps-kml-loading": "йовкстамозо моли...",
+    "googlemaps-earth": "Мода-мастор",
+    "googlemaps-moon": "Ков",
+    "googlemaps-mars": "Марс"
+}

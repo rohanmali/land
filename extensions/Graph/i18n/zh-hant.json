@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Cwlin0416",
+			"Liuxinyu970226"
+		]
+	},
+	"graph-desc": "允許 &lt;graph&gt; 標籤或整個頁面使用 [http://vega.github.io/ Vega] 為基礎的圖型。",
+	"graph-ve-dialog-edit-page-data": "資料",
+	"graph-ve-dialog-edit-page-general": "一般",
+	"graph-ve-dialog-edit-table-row-delete": "刪除列",
+	"graph-ve-no-spec": "查無圖型規格"
+}

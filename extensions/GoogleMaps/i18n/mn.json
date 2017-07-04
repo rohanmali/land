@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chinneeb"
+        ]
+    },
+    "googlemaps-yes": "Тийм",
+    "googlemaps-no": "Үгүй",
+    "googlemaps-search": "Хайх",
+    "googlemaps-kml-loading": "уншиж байна..."
+}

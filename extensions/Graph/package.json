@@ -1,0 +1,26 @@
+{
+  "name": "Graph",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Build tools for the Graph-MediaWiki extension.",
+  "scripts": {
+    "build-lib": "node_modules/.bin/browserify modules/graph2.js -o lib/graph2.compiled.js",
+    "test": "grunt test"
+  },
+  "manual-dev-Dependencies (fails to install in Jenkins, install manually)": {
+    "vega": "git+https://github.com/nyurik/vega"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "graph-shared": "git+http://git@github.com/nyurik/graph-shared",
+    "grunt": "1.0.1",
+    "grunt-banana-checker": "0.5.0",
+    "grunt-contrib-jshint": "1.0.0",
+    "grunt-contrib-watch": "1.0.0",
+    "grunt-jscs": "2.8.0",
+    "grunt-jsonlint": "1.0.7",
+    "grunt-stylelint": "0.6.0",
+    "jquery.splitter": "^0.20.1",
+    "stylelint-config-wikimedia": "0.3.0"
+  }
+}

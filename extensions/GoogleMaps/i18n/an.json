@@ -1,0 +1,13 @@
+{
+    "@metadata": {
+        "authors": [
+            "Juanpabl"
+        ]
+    },
+    "googlemaps-zoom-control": "Navego",
+    "googlemaps-small": "Chicota",
+    "googlemaps-no-zoom-control": "Garra",
+    "googlemaps-yes": "Sí",
+    "googlemaps-no": "No",
+    "googlemaps-save-path": "Alzar"
+}

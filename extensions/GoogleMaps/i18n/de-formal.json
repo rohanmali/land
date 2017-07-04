@@ -1,0 +1,20 @@
+{
+    "@metadata": {
+        "authors": [
+            "LWChris",
+            "Raimond Spekking",
+            "The Evil IP address",
+            "Umherirrender",
+            "[[mw:User:Helge.at]]"
+        ]
+    },
+    "googlemaps-incompatible-browser": "Um die Karte sehen zu können, die hier angezeigt werden soll, brauchen Sie einen kompatiblen Browser.",
+    "googlemaps-incompatible-browser-link": "Klicken Sie hier für eine Liste kompatibler Browser.",
+    "googlemaps-no-editor": "Leider unterstützt Ihr Browser den interaktiven Karten-Editor nicht. Versuchen Sie es mit der neuesten Version von <a href=\"//www.mozilla.org/products/firefox\">Firefox</a> (Windows, Mac und Linux) oder <a href=\"http://www.microsoft.com/ie\">Internet Explorer</a> (Windows).",
+    "googlemaps-note": "Achtung: Kopieren Sie alles, was Sie speichern möchten, in die Seite (unten), bevor Sie „Karte laden“, „Speichern“ oder „Vorschau“ klicken!",
+    "googlemaps-are-you-sure": "Sind Sie sicher?",
+    "googlemaps-search-preface": "Klicken Sie auf die Karte, um einen Punkt hinzuzufügen, oder springen Sie zu einer Stadt, Land, Adresse oder einem Geschäft:",
+    "googlemaps-geocode-preface": "Klicken Sie auf die Karte, um einen Punkt hinzuzufügen, oder springen Sie zu einer Stadt, Land oder Adresse:",
+    "googlemaps-no-search-preface": "Klicken Sie auf die Karte, um einen Punkt hinzuzufügen.",
+    "googlemaps-editing-path": "Klicken Sie auf die Karte, um mehr Punkte zum Pfad hinzuzufügen."
+}

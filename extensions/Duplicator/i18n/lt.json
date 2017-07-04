@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eitvys200"
+		]
+	},
+	"duplicator-options": "Parinktys",
+	"duplicator-source": "Šaltinis:",
+	"duplicator-success-talknotcopied": "Aptarimų puslapis negali būti nukopijuotas.",
+	"duplicator-failed": "Puslapis negali būti dubliuojamas.\nĮvyko nežinoma klaida."
+}

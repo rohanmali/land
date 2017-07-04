@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Filipinayzd"
+		]
+	},
+	"duplicator-options": "Mga pilian",
+	"duplicator-source": "Ginikanan:",
+	"duplicator-dest": "Destinasyon:",
+	"duplicator-summary": "Kinopya sa [[$1]]"
+}

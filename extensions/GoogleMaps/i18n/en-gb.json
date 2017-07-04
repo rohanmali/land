@@ -1,0 +1,11 @@
+{
+    "@metadata": {
+        "authors": [
+            "Lcawte"
+        ]
+    },
+    "googlemaps-color-path": "change colour",
+    "googlemaps-color-fill": "change colour fill",
+    "googlemaps-fill-color": "Fill colour",
+    "googlemaps-line-color": "Line colour"
+}

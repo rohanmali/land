@@ -1,0 +1,18 @@
+{
+    "@metadata": {
+        "authors": [
+            "Crazymadlover",
+            "Omnipaedista"
+        ]
+    },
+    "googlemaps-balloon-title": "Ἐπιγραφή:",
+    "googlemaps-remove": "ἀφαιρεῖν",
+    "googlemaps-zoom-control": "Πλοήγησις",
+    "googlemaps-no-zoom-control": "Οὐδέν",
+    "googlemaps-yes": "Ναί",
+    "googlemaps-no": "Οὐ",
+    "googlemaps-search": "Ζητεῖν",
+    "googlemaps-save-path": "Γράφειν",
+    "googlemaps-kml-loading": "φορτίζειν...",
+    "googlemaps-moon": "Σελήνη"
+}

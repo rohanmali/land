@@ -1,0 +1,20 @@
+{
+    "@metadata": {
+        "authors": [
+            "Asoxor",
+            "Calak"
+        ]
+    },
+    "googlemaps-balloon-title": "سەردێڕ:",
+    "googlemaps-map": "نەخشە",
+    "googlemaps-zoom-control": "ڕێدۆزی",
+    "googlemaps-large": "گەورە",
+    "googlemaps-small": "بچووک",
+    "googlemaps-yes": "بەڵێ",
+    "googlemaps-no": "نا",
+    "googlemaps-search": "گەڕان",
+    "googlemaps-save-path": "پاشەکەوت",
+    "googlemaps-earth": "زەوی",
+    "googlemaps-moon": "مانگ",
+    "googlemaps-mars": "مەڕیخ"
+}

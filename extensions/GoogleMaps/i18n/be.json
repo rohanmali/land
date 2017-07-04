@@ -1,0 +1,14 @@
+{
+    "@metadata": {
+        "authors": [
+            "Чаховіч Уладзіслаў"
+        ]
+    },
+    "googlemaps-desc": "Дазваляе лёгка ствараць карты з дапамогай вікі-адзнак",
+    "googlemaps-incompatible-browser": "Для прагляду карты скарыстайцеся <a href=\\\"http://local.google.com/support/bin/answer.py?answer=16532&amp;topic=1499\\\">сумяшчальным браўзерам</a>.",
+    "googlemaps-incompatible-browser-link": "Націсніце тут, каб убачыць спіс прыдатных браўзераў.",
+    "googlemaps-no-editor": "Нажаль, ваш браўзер не падтрымлівае функцыю стварэння інтэрактыўных карт. Скарыстайцеся свежай версіяй <a href=\\\"http://www.microsoft.com/ie\\\">Internet Explorer</a> (Windows) ці <a href=\\\"//www.mozilla.org/products/firefox\\\">Firefox</a> (Windows, Mac і Linux).",
+    "googlemaps-balloon-title": "Загаловак:",
+    "googlemaps-balloon-link-article": "Спасылка на гэту старонку (неабавязкова):",
+    "googlemaps-make-marker": "Маркер (магчымая вікі-разметка):"
+}

@@ -1,0 +1,15 @@
+{
+    "@metadata": {
+        "authors": [
+            "Mdupont"
+        ]
+    },
+    "googlemaps-back": "prapa",
+    "googlemaps-kml-include": "KML jashtme / GeoRSS:",
+    "googlemaps-kml-include-link": "shtoni në hartë",
+    "googlemaps-kml-loading": "loading ...",
+    "googlemaps-kml-export": "Eksporti këtë hartë të KML",
+    "googlemaps-earth": "Tokë",
+    "googlemaps-moon": "Hënë",
+    "googlemaps-mars": "Mars"
+}

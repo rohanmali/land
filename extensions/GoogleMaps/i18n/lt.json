@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "authors": [
+            "Hugo.arg"
+        ]
+    },
+    "googlemaps-no-results": "Atsiprašome, rezultatų nerasta",
+    "googlemaps-searching": "ieškoma…",
+    "googlemaps-map": "Žemėlapis",
+    "googlemaps-are-you-sure": "Esate tikras?",
+    "googlemaps-width": "Plotis",
+    "googlemaps-height": "Aukštis",
+    "googlemaps-scale-control": "Skalė",
+    "googlemaps-overview-control": "Peržiūra",
+    "googlemaps-zoom-control": "Naršymas",
+    "googlemaps-yes": "Taip",
+    "googlemaps-no": "Ne",
+    "googlemaps-search": "Ieškoti",
+    "googlemaps-clear-search": "išvalyti paieškos rezultatus",
+    "googlemaps-meters": "metrai",
+    "googlemaps-miles": "mylios",
+    "googlemaps-save-path": "Išsaugoti",
+    "googlemaps-back": "atgal",
+    "googlemaps-kml-loading": "kraunama…",
+    "googlemaps-earth": "Žemė",
+    "googlemaps-moon": "Mėnulis",
+    "googlemaps-mars": "Marsas"
+}

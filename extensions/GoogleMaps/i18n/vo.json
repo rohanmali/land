@@ -1,0 +1,38 @@
+{
+    "@metadata": {
+        "authors": [
+            "Malafaya",
+            "Smeira"
+        ]
+    },
+    "googlemaps-balloon-title": "Tiäd:",
+    "googlemaps-remove": "moükön",
+    "googlemaps-start-path": "primön luvegi",
+    "googlemaps-load-map-from-article": "Lodön kaedi se pad:",
+    "googlemaps-load-map": "Lodön kaedi",
+    "googlemaps-clip-result": "Läükön kaede",
+    "googlemaps-no-results": "Pidö! seks nonik",
+    "googlemaps-searching": "sukon...",
+    "googlemaps-map": "Kaed",
+    "googlemaps-are-you-sure": "Fümiko?",
+    "googlemaps-width": "Vidot",
+    "googlemaps-height": "Geilot",
+    "googlemaps-overview-control": "Lovelogam",
+    "googlemaps-zoom-control": "Nafam",
+    "googlemaps-large": "Gretik",
+    "googlemaps-medium": "Zänedik",
+    "googlemaps-small": "Smalik",
+    "googlemaps-no-zoom-control": "Nonik",
+    "googlemaps-yes": "Si",
+    "googlemaps-no": "Nö",
+    "googlemaps-search": "Sukön",
+    "googlemaps-save-path": "Dakipön",
+    "googlemaps-line-width": "Vidot",
+    "googlemaps-make-map": "mekön kaedi",
+    "googlemaps-hide-map": "klänedön kaedi",
+    "googlemaps-back": "geikön",
+    "googlemaps-kml-include-link": "läükön kaede",
+    "googlemaps-kml-loading": "lodon...",
+    "googlemaps-earth": "Tal",
+    "googlemaps-moon": "Mun"
+}

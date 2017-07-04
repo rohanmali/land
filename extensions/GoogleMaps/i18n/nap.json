@@ -1,0 +1,16 @@
+{
+    "@metadata": {
+        "authors": [
+            "Chelin"
+        ]
+    },
+    "googlemaps-balloon-title": "Titulo:",
+    "googlemaps-map": "Mappa",
+    "googlemaps-are-you-sure": "Si sicuro?",
+    "googlemaps-no-zoom-control": "Nisciuno",
+    "googlemaps-search": "Truova",
+    "googlemaps-save-path": "Sarva",
+    "googlemaps-earth": "Terra",
+    "googlemaps-moon": "Luna",
+    "googlemaps-mars": "Marte"
+}

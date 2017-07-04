@@ -140,6 +140,7 @@ $wgFileExtensions = array(
     'mp3', 'xls', 'xlsx', 'swf', 'doc','docx', 'odt', 'odc', 'odp',
     'odg', 'mpp', 'svg'
     );
+$wgAllowTitlesInSVG = true;
 
 # Enabled skins.
 # The following skins were automatically enabled:
@@ -170,11 +171,37 @@ wfLoadExtension( 'SpamBlacklist' );
 wfLoadExtension( 'SyntaxHighlight_GeSHi' );
 wfLoadExtension( 'TitleBlacklist' );
 wfLoadExtension( 'WikiEditor' );
+wfLoadExtension( 'Graph' );
+wfLoadExtension( 'MsUpload' );
+# Enables use of WikiEditor by default but still allows users to disable it in preferences
+$wgDefaultUserOptions['usebetatoolbar'] = 1;
+
+# Enables link and table wizards by default but still allows users to disable them in preferences
+$wgDefaultUserOptions['usebetatoolbar-cgd'] = 1;
+
+# Displays the Preview and Changes tabs
+$wgDefaultUserOptions['wikieditor-preview'] = 1;
+
+# Displays the Publish and Cancel buttons on the top right side
+$wgDefaultUserOptions['wikieditor-publish'] = 1;
+
+# End of automatically generated settings.
+# Add more configuration options below.
+require_once "$IP/extensions/MobileFrontend/MobileFrontend.php";
+$wgMFAutodetectMobileView = true;
+# disable talk and watch features
+$wgMFPageActions = array( 'edit', 'upload' );
+require_once "$IP/extensions/LanguageSelector/LanguageSelector.php";
+require_once "$IP/extensions/Widgets/Widgets.php";
+require_once "$IP/extensions/AddThis/AddThis.php";
+require_once "$IP/extensions/Duplicator/Duplicator.php";
+require_once "$IP/extensions/JsonConfig/JsonConfig.php";
+
 wfLoadExtension( 'VisualEditor' );
 
-//Enable VisualEditor by default for everybody
-$wgDefaultUserOptions['visualeditor-enable'] = 1; 
-
+// Enable by default for everybody
+$wgDefaultUserOptions['visualeditor-enable'] = 1;
+$wgDefaultUserOptions['usebetatoolbar'] = 1;
 // Optional: Set VisualEditor as the default for anonymous users
 // otherwise they will have to switch to VE
 // $wgDefaultUserOptions['visualeditor-editor'] = "visualeditor";
@@ -184,20 +211,28 @@ $wgHiddenPrefs[] = 'visualeditor-enable';
 
 // OPTIONAL: Enable VisualEditor's experimental code features
 #$wgDefaultUserOptions['visualeditor-enable-experimental'] = 1;
-
-// Parsoid configuration
 $wgVirtualRestConfig['modules']['parsoid'] = array(
-// URL to the Parsoid instance
-// Use port 8142 if you use the Debian package
-// url must not end in a slash, otherwise it might give a 404 error
-'url' => 'freeabillion:8142/',
-// Parsoid "domain", see below (optional)
-'domain' => 'localhost',
-// Parsoid "prefix", see below (optional)
-'prefix' => 'your wiki prefix',
-//If you run a private wiki then you have to set the following variable to true:
-'forwardCookies' => true
+	// URL to the Parsoid instance
+	// Use port 8142 if you use the Debian package
+	'url' => 'http://land.freeabillion.com:8000',
+	// Parsoid "domain", see below (optional)
+	'domain' => 'land.freeabillion.com',
+	// Parsoid "prefix", see below (optional)
+	'prefix' => 'land.freeabillion.com'
 );
-# End of automatically generated settings.
-# Add more configuration options below.
+require_once "$IP/extensions/NativeSvgHandler/NativeSvgHandler.php";
+require_once "$IP/extensions/DrawioEditor/DrawioEditor.php";
+require_once( "$IP/extensions/GoogleMaps/GoogleMaps.php" );
 
+$wgMSU_useDragDrop = true; // Should the drag & drop area be shown? (Not set by default)
+$wgMSU_showAutoCat = true; // If true, files uploaded while editing a category will be added to that category
+$wgMSU_checkAutoCat = true; // Whether the checkbox for the above mentioned case is checked by default
+$wgMSU_useMsLinks = false; // Should we allow to insert links in the style of the Extension:MsLinks?
+$wgMSU_confirmReplace = true; // Show the "Replace file?" checkbox
+$wgMSU_imgParams = '400px'; // The default parameters for inserted images
+$wgEnableWriteAPI = true; // Enable the API
+$wgEnableUploads = true; // Enable uploads
+$wgAllowJavaUploads = true; // Solves problem with Office 2007 and newer files (docx, xlsx, etc.)
+$wgGroupPermissions['user']['upload'] = true; // Allow regular users to upload files
+// Make sure that the file types you want to upload are allowed:
+$wgFileExtensions = array('png','gif','jpg','jpeg','doc','xls','pdf','ppt','tiff','bmp','docx','xlsx','pptx','html');

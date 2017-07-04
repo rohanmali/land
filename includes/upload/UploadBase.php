@@ -1430,7 +1430,7 @@ abstract class UploadBase {
 		list( $namespace, $strippedElement ) = $this->splitXmlNamespace( $element );
 
 		// We specifically don't include:
-		// http://www.w3.org/1999/xhtml (bug 60771)
+		// $validNamespaces
 		static $validNamespaces = [
 			'',
 			'adobe:ns:meta/',

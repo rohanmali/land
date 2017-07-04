@@ -1,0 +1,82 @@
+{
+  "name": "parsoid",
+  "description": "Mediawiki parser for the VisualEditor.",
+  "version": "0.6.1",
+  "license": "GPL-2.0+",
+  "dependencies": {
+    "async": "^0.9.2",
+    "babybird": "^0.0.1",
+    "body-parser": "^1.15.2",
+    "compression": "^1.6.2",
+    "connect-busboy": "^0.0.2",
+    "content-type": "git+https://github.com/wikimedia/content-type#master",
+    "core-js": "^2.4.1",
+    "diff": "^1.0.7",
+    "domino": "^1.0.27",
+    "entities": "^1.1.1",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "finalhandler": "^0.5.0",
+    "gelf-stream": "^0.2.4",
+    "js-yaml": "^3.6.1",
+    "mediawiki-title": "^0.5.6",
+    "negotiator": "git+https://github.com/arlolra/negotiator#full-parse-access",
+    "node-uuid": "^1.4.7",
+    "pegjs": "git+https://github.com/tstarling/pegjs#fork",
+    "prfun": "^2.1.4",
+    "request": "^2.74.0",
+    "semver": "^5.3.0",
+    "serve-favicon": "^2.3.0",
+    "service-runner": "^2.1.0",
+    "simplediff": "^0.1.1",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {
+    "alea": "^0.0.9",
+    "chai": "^3.5.0",
+    "colors": "^1.1.2",
+    "coveralls": "^2.11.11",
+    "istanbul": "^0.4.4",
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.2",
+    "mocha": "^2.5.3",
+    "npm-shrinkwrap": "^200.5.1",
+    "nsp": "^2.6.1",
+    "supertest": "^1.2.0"
+  },
+  "main": "lib/index.js",
+  "bin": {
+    "parse.js": "bin/parse.js"
+  },
+  "scripts": {
+    "lint": "npm run dump-tokenizer && npm run jscs && npm run jshint",
+    "start": "service-runner",
+    "jshint": "jshint bin lib tests tools core-upgrade.js",
+    "jscs": "jscs bin lib tests tools core-upgrade.js",
+    "jscs-fix": "jscs --fix bin lib tests tools core-upgrade.js",
+    "dump-tokenizer": "node lib/wt2html/tokenizer.js",
+    "mocha": "mocha --opts tests/mocha/mocha.opts tests/mocha",
+    "parserTests": "node bin/parserTests.js --wt2html --wt2wt --html2wt --html2html --selser --no-color --quiet --blacklist",
+    "roundtrip": "node bin/roundtrip-test.js -c 'Barack Obama' && node bin/roundtrip-test.js -c --prefix frwiki Chope && node bin/roundtrip-test.js -c --xml Parkour && node bin/roundtrip-test.js -c --domain www.mediawiki.org --oldid 2170316 'User:Legoktm/test_this_is_json'",
+    "toolcheck": "bin/toolcheck.sh",
+    "test": "npm run nsp && npm run lint && npm run parserTests && npm run mocha",
+    "cover-mocha": "istanbul cover _mocha --dir ./coverage/mocha --  --opts tests/mocha/mocha.opts tests/mocha",
+    "cover-parserTests": "istanbul cover bin/parserTests.js --dir ./coverage/parserTests -- --wt2html --wt2wt --html2wt --html2html --selser --no-color --quiet --blacklist",
+    "coverage": "npm run cover-mocha && npm run cover-parserTests && istanbul report",
+    "coveralls": "cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
+    "doc": "jsduck --config jsduck.json",
+    "nsp": "nsp check",
+    "shrinkwrap": "npm-shrinkwrap --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wikimedia/parsoid.git"
+  },
+  "deploy": {
+    "target": "ubuntu",
+    "node": "4.6.0",
+    "dependencies": {
+      "_all": []
+    }
+  }
+}

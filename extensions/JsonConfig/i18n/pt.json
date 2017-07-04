@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Imperadeiro98",
+			"Vitorvicentevalente",
+			"Hamilton Abreu"
+		]
+	},
+	"jsonconfig-err-number": "O parâmetro \"$1\" deve ser um número",
+	"jsonconfig-move-aborted-ns": "o novo título da página não está configurado para manter a configuração JSON",
+	"jsonconfig-optional-field": "(opcional)",
+	"apihelp-jsonconfig-description": "Permite o acesso direto ao subsistema JsonConfig."
+}

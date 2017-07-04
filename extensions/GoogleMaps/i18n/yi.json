@@ -1,0 +1,28 @@
+{
+    "@metadata": {
+        "authors": [
+            "פוילישער",
+            "පසිඳු කාවින්ද"
+        ]
+    },
+    "googlemaps-balloon-title": "טיטל:",
+    "googlemaps-balloon-link-article": "לינק צו דעם בלאט (אפציאנאל):",
+    "googlemaps-make-marker": "באשרייבונג (וויקי סינטאקס ערלויבט):",
+    "googlemaps-remove": "אַראָפּנעמען",
+    "googlemaps-searching": "זוכנדיג…",
+    "googlemaps-width": "ברייט",
+    "googlemaps-height": "הייך",
+    "googlemaps-zoom-control": "נאַוויגאַציע",
+    "googlemaps-small": "קליין",
+    "googlemaps-no-zoom-control": "קיין",
+    "googlemaps-yes": "יאָ",
+    "googlemaps-no": "ניין",
+    "googlemaps-search": "זוכן",
+    "googlemaps-save-path": "אויפֿהיטן",
+    "googlemaps-color-path": "ענדערן קאליר",
+    "googlemaps-line-width": "ברייט",
+    "googlemaps-back": "צוריק",
+    "googlemaps-earth": "ערד",
+    "googlemaps-moon": "לבנה",
+    "googlemaps-mars": "מאַרס"
+}

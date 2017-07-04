@@ -1,0 +1,41 @@
+{
+    "@metadata": {
+        "authors": [
+            "EileenSanda",
+            "Quackor"
+        ]
+    },
+    "googlemaps-balloon-title": "Heiti:",
+    "googlemaps-caption": "Yvirskrift",
+    "googlemaps-tab": "Fánablað",
+    "googlemaps-save-point": "Goym og lat aftur",
+    "googlemaps-load-map-from-article": "Innles eitt kort frá síðuni:",
+    "googlemaps-no-maps": "Ongi kort eru at innlesa á hesi síðuni.",
+    "googlemaps-refresh-list": "Dagfør listan",
+    "googlemaps-load-map": "Les kort inn",
+    "googlemaps-clip-result": "Legg til kortið",
+    "googlemaps-no-results": "Tíverri eru ongi úrslit",
+    "googlemaps-searching": "leitar...",
+    "googlemaps-map": "Kort",
+    "googlemaps-are-you-sure": "Ert tú sikkur?",
+    "googlemaps-width": "Vídd",
+    "googlemaps-height": "Hædd",
+    "googlemaps-overview-control": "Yvirlit",
+    "googlemaps-zoom-control": "Navigatión",
+    "googlemaps-yes": "Ja",
+    "googlemaps-no": "Nei",
+    "googlemaps-search": "Leita",
+    "googlemaps-meters": "metrar",
+    "googlemaps-miles": "mílir",
+    "googlemaps-save-path": "Goym",
+    "googlemaps-color-path": "broyt lit",
+    "googlemaps-color-fill": "broyt fyllu lit",
+    "googlemaps-line-width": "Vídd",
+    "googlemaps-make-map": "stovna kort",
+    "googlemaps-hide-map": "goym kort",
+    "googlemaps-back": "aftur",
+    "googlemaps-kml-loading": "inn lesur...",
+    "googlemaps-earth": "Jørðin",
+    "googlemaps-moon": "Mánin",
+    "googlemaps-mars": "Mars"
+}

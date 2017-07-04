@@ -1,0 +1,40 @@
+{
+    "@metadata": {
+        "authors": [
+            "Belekvor",
+            "Erdemaslancan",
+            "Mirzali"
+        ]
+    },
+    "googlemaps-balloon-title": "Sername:",
+    "googlemaps-remove": "wedare",
+    "googlemaps-caption": "Bınnuşte",
+    "googlemaps-tab-title": "Sernamey taber",
+    "googlemaps-tab": "Tab",
+    "googlemaps-searching": "geyreno cı...",
+    "googlemaps-map": "Xerita",
+    "googlemaps-are-you-sure": "Vac welay?",
+    "googlemaps-width": "Herayey",
+    "googlemaps-height": "Dergiye",
+    "googlemaps-scale-control": "Senceg",
+    "googlemaps-overview-control": "Hera weynayis",
+    "googlemaps-large": "Gırd",
+    "googlemaps-medium": "Miyanên",
+    "googlemaps-small": "Qıc",
+    "googlemaps-no-zoom-control": "Çino",
+    "googlemaps-yes": "Eya",
+    "googlemaps-no": "Nê",
+    "googlemaps-search": "Cı geyre",
+    "googlemaps-save-path": "Star ke",
+    "googlemaps-line-width": "Herayey",
+    "googlemaps-make-map": "jû xerita vıraze",
+    "googlemaps-hide-map": "xerita bınımne",
+    "googlemaps-back": "peyser",
+    "googlemaps-kml-include": "KML/GeoRSSê teberi:",
+    "googlemaps-kml-include-link": "xeriti zerre ke",
+    "googlemaps-kml-loading": "barêno...",
+    "googlemaps-kml-export": "Na xerita bere be KML",
+    "googlemaps-earth": "Dınya",
+    "googlemaps-moon": "Aşme",
+    "googlemaps-mars": "Mars"
+}
